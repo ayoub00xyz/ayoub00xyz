@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ayoub00xyz
+- 👀 I’m interested in DevOps, Cloud computing, mobile development, and software engineering
+- 🌱 I’m currently learning the DevOps toolchain.
+- 💞️ I’m looking to collaborate on a DevOps project.
+- 📫 How to reach me: /in/khadrani
