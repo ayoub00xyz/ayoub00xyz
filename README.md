@@ -10,7 +10,7 @@ My name is Ayoub Khadrani. I am a hardworking, dedicated, and forward-thinking i
 <br/><br/>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=k8s,git,github,gitlab,docker,ansible,prometheus,aws,gcp,azure" />
+    <img src="https://skillicons.dev/icons?i=k8s,git,github,gitlab,docker,jenkins,ansible,prometheus,aws,gcp,azure" />
   </a>
 </p>
 <b>Programming Languages and Frameworks :</b>
